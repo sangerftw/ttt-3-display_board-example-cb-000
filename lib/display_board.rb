@@ -6,4 +6,4 @@ def display_board
   -----------
   "   "|"   "|"   "
 end
-display
+display_board
